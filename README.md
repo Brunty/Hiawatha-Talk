@@ -1,7 +1,7 @@
 Hiawatha-Talk
 =============
 
-Details and links from the Hiawatha talk at PHPNW14 Uncon
+Details and links from the Hiawatha talk at PHPNW14 Uncon as well as the PHPEM14 Uncon
 
 
 https://www.hiawatha-webserver.org/
